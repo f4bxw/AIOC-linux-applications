@@ -1,0 +1,10 @@
+# moniteur_enregistreur
+Ici, je vous présente comment implémenter un système qui enregistre automatiquement toutes les transmissions audio qui sont reçues par l'UV5.
+Les communications sont enregistrées en mp3 mono et stockées dans des fichiers horodatés.
+
+cas d'usage
+===========
+* Vous veillez une fréquence, mais vous n'etes pas toujours présent, du coup, c'est le bon moyen de ne pas rater un appel...
+* Vous voulez enregistrer les communications ISS lors de tous ces passages à votre portée radio...
+* Vous voulez savoir si un relais radioamateur est très employé
+*
